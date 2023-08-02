@@ -1,2 +1,3 @@
 # e-commerce
- E-commerce work
+
+This project developing with React
